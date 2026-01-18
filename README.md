@@ -2,7 +2,7 @@
 
 **📌 Project Overview**
 
-        Breast cancer is one of the most common and life-threatening diseases among women worldwide. Early and accurate diagnosis plays a crucial role in improving survival rates.
+Breast cancer is one of the most common and life-threatening diseases among women worldwide. Early and accurate diagnosis plays a crucial role in improving survival rates.
 This project implements a Hybrid Deep Learning model combining Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) to classify breast tumors as Malignant or Benign using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset.
 
 The model leverages:
@@ -14,13 +14,13 @@ to achieve high classification accuracy and robustness.
 
 **🎯 Objectives**
 
-      Build an end-to-end deep learning pipeline for breast cancer classification
+Build an end-to-end deep learning pipeline for breast cancer classification
 
-      Apply a CNN–LSTM hybrid architecture on tabular medical data
+Apply a CNN–LSTM hybrid architecture on tabular medical data
 
-      Achieve high accuracy with strong generalization
+Achieve high accuracy with strong generalization
 
-      Visualize model performance using multiple evaluation metrics
+Visualize model performance using multiple evaluation metrics
 
 **📂 Dataset Information**
 
