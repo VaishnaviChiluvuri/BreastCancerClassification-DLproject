@@ -1,4 +1,4 @@
-🩺 Breast Cancer Classification using Hybrid CNN–LSTM Model
+**🩺 Breast Cancer Classification using Hybrid CNN–LSTM Model**
 📌 Project Overview
 
 Breast cancer is one of the most common and life-threatening diseases among women worldwide. Early and accurate diagnosis plays a crucial role in improving survival rates.
