@@ -1,7 +1,8 @@
 **🩺 Breast Cancer Classification using Hybrid CNN–LSTM Model**
-📌 Project Overview
 
-Breast cancer is one of the most common and life-threatening diseases among women worldwide. Early and accurate diagnosis plays a crucial role in improving survival rates.
+**📌 Project Overview**
+
+        Breast cancer is one of the most common and life-threatening diseases among women worldwide. Early and accurate diagnosis plays a crucial role in improving survival rates.
 This project implements a Hybrid Deep Learning model combining Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) to classify breast tumors as Malignant or Benign using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset.
 
 The model leverages:
@@ -11,17 +12,17 @@ CNN (Conv1D) for automatic feature extraction
 LSTM for learning sequential dependencies among features
 to achieve high classification accuracy and robustness.
 
-🎯 Objectives
+**🎯 Objectives**
 
-Build an end-to-end deep learning pipeline for breast cancer classification
+      Build an end-to-end deep learning pipeline for breast cancer classification
 
-Apply a CNN–LSTM hybrid architecture on tabular medical data
+      Apply a CNN–LSTM hybrid architecture on tabular medical data
 
-Achieve high accuracy with strong generalization
+      Achieve high accuracy with strong generalization
 
-Visualize model performance using multiple evaluation metrics
+      Visualize model performance using multiple evaluation metrics
 
-📂 Dataset Information
+**📂 Dataset Information**
 
 Dataset: Wisconsin Diagnostic Breast Cancer (WDBC)
 
@@ -37,7 +38,7 @@ Classes:
 
 1 → Benign
 
-🧠 Model Architecture
+**🧠 Model Architecture**
 
 The proposed model is a Hybrid CNN–LSTM network consisting of:
 
@@ -59,7 +60,7 @@ Perform binary classification
 
 This architecture allows the model to learn both spatial and sequential feature representations.
 
-⚙️ Data Preprocessing
+**⚙️ Data Preprocessing**
 
 Feature scaling using StandardScaler
 
@@ -68,7 +69,7 @@ Stratified train-test split (80:20)
 Reshaping data into 3D format for CNN–LSTM compatibility
 (samples, timesteps, features)
 
-📈 Training Configuration
+**📈 Training Configuration**
 
 Optimizer: Adam
 
@@ -80,7 +81,7 @@ Epochs: 50
 
 Activation Functions: ReLU (hidden layers), Sigmoid (output layer)
 
-📊 Performance Evaluation
+**📊 Performance Evaluation**
 
 The model is evaluated using:
 
@@ -94,7 +95,7 @@ ROC Curve & AUC Score
 
 Training vs Validation Accuracy/Loss plots
 
-🔥 Results (Typical)
+**🔥 Results (Typical)**
 
 Accuracy: 97–99%
 
@@ -102,7 +103,7 @@ ROC-AUC: ~0.99
 
 Low false-positive and false-negative rates
 
-📉 Visualizations
+**📉 Visualizations**
 
 Confusion Matrix Heatmap
 
